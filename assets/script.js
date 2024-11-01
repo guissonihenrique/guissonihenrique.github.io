@@ -97,10 +97,12 @@ function cadastroFic(){
         realizado.classList.toggle("flex")
         
         setTimeout(function(){
-            window.location.href = "inicio.html"
-        }, 2500)
+            window.location.href = "index.html"
+        }, 2000)
     }
 }
+
+//-------------------------------------------------------------------------------------------
 
 function joao(){
     open("https://www.instagram.com/joaopedrogmatos/")
